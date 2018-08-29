@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_4b28bf6f55ef90c4d6f0e712fb230d9a92347c78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="70563ad2f57c3551e0f98d24ffa16aed32a5f6a6">
+        <dex dex="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_39cc6e01ced48ef456264f80523663debe0c0274\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_2d83dc7bf83bca634000f9255616b3050eb67e33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_adb1043724f38ec621af0972cdac8a74c70e086d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_f80422b9c4fd3aff561addd100c0c27167811791\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_6d851d9a3cbbe5d1dac573180ea50da442a0ff00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\exploded-aar\im.dino\dbinspector\3.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09168d62adc70015bf304350973a045f82e5e3e6">
+        <dex dex="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\transforms\dex\debug\folders\1000\10\im.dino-dbinspector-3.4.0_e7eb7cb8cf9d4ea5423127059c73411973ecf33b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_b5caad075ece82decf5a5d54c422f0636f5e58b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_e27a9eec21e130544a88b64fe3ea92dedab8e167\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4434adbb2abc23658d30966a3c714f44df078c9b">
+        <dex dex="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_467e2f13af0bbf9cb12671cdf315042ac5fd56bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_0479b50f3d02c448172d0672212b0d22c9500f87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Ashwin\Documents\android\NayaGhar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_2a1d2044563bfe055df8f997ddc21d0027724dba\classes.dex" />
+    </item>
+
+</items>
